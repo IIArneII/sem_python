@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.2.2"
+  }
+}
