@@ -20,4 +20,5 @@ ____
 
 ## Сборка
 Для запуска сервера: node ./server/server.js
+
 Для запуска приложения: python ./app/main.py
